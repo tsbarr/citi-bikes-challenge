@@ -18,4 +18,4 @@ The other dataset, I counted the number of monthly trips that used each station,
 
 I used the resulting data sets to generate 9 tableau visualizations (including a dynamic stations map), which I organized in 4 dashboards and 1 data story, which can be accessed here: [NYC Citibike Trip Data Story](https://public.tableau.com/app/profile/tsbarr/viz/citibiketrips_17057061954680/NYCCitibikeTripData).
 
-The key findings are included within their corresponding dashboard.
+The key findings are included in a text tile within their corresponding dashboard in the data story.
